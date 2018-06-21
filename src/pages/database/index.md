@@ -17,4 +17,4 @@ Information that is more than text, such as photos, audio, and video, have their
 
 A database not only stores data. It allows it to be found again. This is a process called ‘indexing’. As new data is added, certain wanted aspects get extracted and collated into an index.
 
-An index is just like ones in the back of a book. It cuts through the masses of information and copies the essential pieces into sorted lists, where it can be quickly flipped through and scanned just like you would with a dictionary or phone book, tracing your finger quickly through the alphabet until you found your exact target.
+An index is just like one in the back of a book. It cuts through the masses of information and copies the essential pieces into sorted lists, where it can be quickly flipped through and scanned just like you would with a dictionary or phone book, tracing your finger quickly through the alphabet until you found your exact target.
